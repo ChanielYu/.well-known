@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.auxy.syn_calendar",
+    "sha256_cert_fingerprints":
+    ["E2:30:8C:4E:4D:0F:B4:62:60:C8:1D:A9:CF:B6:92:83:98:C9:20:83:84:87:52:28:A3:23:76:EB:0F:8E:A0:C7"]
+  }
+}]
